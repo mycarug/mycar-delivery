@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "221754586582",
+    "firebase_url": "https://my-car-delivery-app.firebaseio.com",
+    "project_id": "my-car-delivery-app",
+    "storage_bucket": "my-car-delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221754586582:android:c555cadb72c65fe0346077",
+        "android_client_info": {
+          "package_name": "com.mycar.ug.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221754586582-h6ec2svr4s91ou5dtqsdkcqqosnllc7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7i5YDmNSDtHwCnGdnnK546gIkOL-Xmcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221754586582-h6ec2svr4s91ou5dtqsdkcqqosnllc7j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221754586582-7pi8f7rlevefgrcjk76un5o775qubk7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycar.ug.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
